@@ -31,13 +31,13 @@ Developed By: ASHWINA K N  Register No.: 212223230025
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 
-![prog](https://github.com/Ashwinakn/Single-server-infinite-capacity---Markov-Model/assets/152128332/d005e11f-2144-4f2f-8878-d74b04d69b36)
-
-
 ## Output :
 
 ![output](https://github.com/Ashwinakn/Single-server-infinite-capacity---Markov-Model/assets/152128332/ed28cab8-9697-4991-9c0b-c25b07a0234e)
 
 
 ## Result :
+
+The average number of material in the sysytem and in the conveyor and waiting time are
+successfully found.
 
